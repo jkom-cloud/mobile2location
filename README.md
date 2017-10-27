@@ -2,7 +2,7 @@
 
 ### Install
 
-`npm install jkom-cloud/mobile2location`
+`npm install jkom-cloud/mobile2location --save`
 
 ### Usage
 
