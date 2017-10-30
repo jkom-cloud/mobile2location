@@ -1,7 +1,7 @@
 var fs = require('fs')
 
 var dataBuffer = null
-var file = './phone.dat'
+var file = __dirname + '/phone.dat'
 
 var load = function () {
   dataBuffer = fs.readFileSync(file)
